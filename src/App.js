@@ -56,7 +56,7 @@ function App() {
 				</div>
 			</nav>
 
-			<header class="masthead text-white text-center mb-4" id="home">
+			<header class="masthead text-white text-center mb-0" id="home">
 				<div class="container d-flex align-items-center flex-column">
 					<img
 						class="masthead-avatar mb-5"
@@ -64,7 +64,7 @@ function App() {
 						alt="..."
 					/>
 
-					<h1 class="masthead-heading text-uppercase mb-5  text-secondary ">
+					<h1 class="masthead-heading text-uppercase   text-secondary ">
 						App development
 					</h1>
 
@@ -77,8 +77,8 @@ function App() {
 					</div>
 
 					<h2 class=" mb-5  text-secondary ">Web Designer - IOT</h2>
-					<p class=" mb-5  text-secondary ">Welkom op mijn portfolio!</p>
-					<p class="w-75 mb-5  text-secondary ">
+					<p class="  text-secondary ">Welkom op mijn portfolio!</p>
+					<p class="w-75  text-secondary ">
 						Ik ben <b>Arslan Bulent</b>, een gepassioneerde programmeur met een
 						sterke toewijding aan mijn vak.<br></br> Mijn portfolio is een
 						verzameling van mijn beste creatieve projecten en professionele
@@ -96,7 +96,7 @@ function App() {
 						te groeien als professional. Ik ben trots op wat ik heb bereikt
 						tijdens mijn stage en ik kijk ernaar uit om dit met je te delen.
 						<br></br>
-						<br></br>Bedankt voor het bezoeken van mijn portfolio. <br></br>
+						<br></br>Bedankt voor het bezoeken van mijn portfolio.
 						<br></br>Ik hoop dat je geïnspireerd raakt en geniet van wat je
 						ziet.<br></br> Veel plezier met het ontdekken van mijn werk!
 					</p>
