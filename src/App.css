@@ -10961,14 +10961,14 @@ html {
 .form-floating input.form-control:focus,
 .form-floating textarea.form-control:focus {
   box-shadow: none;
-}
+}nambar
 .form-floating label {
   font-size: 1.5rem;
   color: #6c757d;
 }
 
 .masthead {
-  padding-top: calc(3rem + 74px);
+  padding-top: calc(6rem + 74px);
   padding-bottom: rem;
 }
 .masthead .masthead-heading {
@@ -10984,8 +10984,8 @@ html {
 
 @media (min-width: 992px) {
   .masthead {
-    padding-top: calc(6rem + 104px);
-    padding-bottom: 6rem;
+    padding-top: calc(3rem + 104px);
+    padding-bottom: 3rem;
   }
   .masthead .masthead-heading {
     font-size: 4rem;
