@@ -346,7 +346,7 @@ function App() {
 								<div class="col-lg-4 col-12 mt-1">
 									<a
 										class="btn btn-xl btn-outline-light w-100"
-										href={require('./assets/img/portfolio/reflectieVerslag.pdf')}
+										href={require('./assets/img/portfolio/reflectie.pdf')}
 									>
 										<i class="fas fa-download"></i>
 										Reflectie verslag
