@@ -9,7 +9,7 @@ function App() {
 			>
 				<div class="container">
 					<a class="navbar-brand" href="#page-top">
-						Thomasmore campus Geel
+						Thomasmore campus Geel.
 					</a>
 					<button
 						class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded"
@@ -76,8 +76,29 @@ function App() {
 						<div class="divider-custom-line"></div>
 					</div>
 
-					<p class="masthead-subheading font-weight-light mb-5  text-secondary ">
-						Web Designer - IOT
+					<h2 class=" mb-5  text-secondary ">Web Designer - IOT</h2>
+					<p class=" mb-5  text-secondary ">Welkom op mijn portfolio!</p>
+					<p class="w-75 mb-5  text-secondary ">
+						Ik ben <b>Arslan Bulent</b>, een gepassioneerde programmeur met een
+						sterke toewijding aan mijn vak.<br></br> Mijn portfolio is een
+						verzameling van mijn beste creatieve projecten en professionele
+						prestaties op het gebied van programmeren. Het is een weerspiegeling
+						van mijn inzet, vaardigheden en creatieve visie. Ik geloof sterk in
+						de kracht van code en hoe het de wereld om ons heen kan veranderen.
+						Als je door mijn portfolio bladert, zul je een verscheidenheid aan
+						projecten ontdekken die ik met veel plezier heb voltooid. Of het nu
+						gaat om mijn werk aan de digitale meter, de Biostoom applicatie, elk
+						werk vertelt een uniek verhaal. Deze projecten tonen niet alleen
+						mijn technische vaardigheden, maar ook mijn vermogen om creatieve
+						oplossingen te bedenken en uit te voeren. Daarnaast vind je op mijn
+						portfolio ook meer informatie over mijn stageproject. Hier heb ik de
+						mogelijkheid gehad om mijn programmeervaardigheden toe te passen en
+						te groeien als professional. Ik ben trots op wat ik heb bereikt
+						tijdens mijn stage en ik kijk ernaar uit om dit met je te delen.
+						<br></br>
+						<br></br>Bedankt voor het bezoeken van mijn portfolio. <br></br>
+						<br></br>Ik hoop dat je geïnspireerd raakt en geniet van wat je
+						ziet.<br></br> Veel plezier met het ontdekken van mijn werk!
 					</p>
 				</div>
 			</header>
@@ -120,8 +141,9 @@ function App() {
 								</strong>
 							</p>
 							<p class="lead">
-								In mijn vrije tijden ga ik wandelen en fietsen als het weer mee
-								valt liefste in de bos natuurlijk. Dat geeft mij enorm deugd...
+								In mijn vrije tijd ga ik wandelen en fietsen, vooral als het
+								weer meezit, het liefst in de natuurlijke omgeving van het bos.
+								Dat geeft me enorm veel voldoening en plezier.
 							</p>
 						</div>
 						<div class="col-lg-4 ms-auto mb-5">
@@ -131,10 +153,11 @@ function App() {
 								</strong>
 							</p>
 							<p class="lead">
-								Ik heb altijd een technische achtergrond gehad dat kun je ook
-								zien in mijn cv. Programmeren en elektronica is voormij totaal
-								andere wereld eignlijk enige plaats waar ik voldoening heb. Deze
-								is een plaats waar ik mij totaal kan laten gaan.
+								Ik heb altijd een technische achtergrond gehad, en dat is ook
+								duidelijk te zien in mijn cv. Programmeren en elektronica zijn
+								voor mij een totaal andere wereld, en het is eigenlijk de enige
+								plek waar ik echt voldoening vind. Het is een omgeving waarin ik
+								mezelf volledig kan uiten en mijn passie kan volgen.
 							</p>
 						</div>
 						<div class="col-lg-4 me-auto">
@@ -144,10 +167,10 @@ function App() {
 								</strong>
 							</p>
 							<p class="lead">
-								Al jaren was ik opzoek naar een degelijke opleiding als
-								programeur en ben bij Thomasmore Campus Geel terecht gekomen.
-								Schooljaar tussen 2019 en 2021 heb opleiding programmeren
-								gevolgd.
+								Al jarenlang was ik op zoek naar een degelijke opleiding als
+								programmeur, en uiteindelijk ben ik terechtgekomen bij Thomas
+								More Campus Geel. Gedurende het schooljaar tussen 2019 en 2021
+								heb ik daar de opleiding programmeren gevolgd.
 							</p>
 						</div>
 						<div class="col-lg-4 me-auto">
@@ -157,8 +180,9 @@ function App() {
 								</strong>
 							</p>
 							<p class="lead">
-								Schooljaar tussen 2021 en 2023 ben ik opleiding aan het volgen
-								als applicatie ontwikkelaar in Thomasmore Campus Geel.
+								Gedurende het schooljaar tussen 2021 en 2023 volg ik momenteel
+								een opleiding als applicatieontwikkelaar aan Thomas More Campus
+								Geel.
 							</p>
 						</div>
 						<div class="col-lg-4 me-auto"></div>
@@ -242,92 +266,94 @@ function App() {
 					</div>
 
 					<div class="row">
-						<div class="col-lg-7 ms-auto">
-							<p class="lead">
-								<strong>
-									<u>AI toepassingen op camerasensoren</u>
-								</strong>
-								<br></br>
-								<br></br>
-								<strong>
-									<u>Periode</u>
-								</strong>
-								<br></br>
-								Tussen 27 maart en 1 juni 2023 liep ik gedurende 16 weken stage
-								bij Delta Technics en dochter bedrijf Delta Care. <br></br>
-								<br></br>
-								<strong>
-									<u>Delta Technics</u>
-								</strong>
-								<br></br>
-								Deze bedrijf is zeer ervaren onder meer Electro- en
-								Telecomsector. Zij hebben zich gespecialiseerd in databekabeling
-								op de nieuwste technologie en standaarden. Gestructureerde
-								bekabeling in glasvezeltechnologie en “Twisted Pair” koper
-								bekabeling. Daarbij hebben ze ook focus gelegd op actieve
-								apparaten en ze bieden ook oplossingen voor de klanten. De
-								opkomst van IOT toepassingen hebben deze ook in hun werk
-								assortimenten toegevoegd.
-								<br></br>
-								<br></br>
-								<strong>
-									<u>Delta care</u>
-								</strong>
-								<br></br>
-								Delta care is een dochter bedrijf van Delta Technics en ze
-								bieden oplossingen om het leven van senioren en zorgbehoevenden
-								aangenamer te maken. Het netwerk van zorgverleners en
-								mantelzorgers kunnen ze ondersteunen door slimme technologie te
-								installeren.
-								<br></br>
-								<br></br>
-								<strong>
-									<u>Opdracht</u>
-								</strong>
-								<br></br>
-								Delta Care is een bedrijf die in zorgsector Mobotix camera's
-								gebruiken om beter toezicht te hebben op de zorgbehoevenden
-								mensen. Voor deze camera systemen mocht ik een applicatie
-								ontwerpen zodanig dat de zorgsectorpersoneel hun eigen
-								grenslijnen kunnen teken met een muis klik en deze gebruiken als
-								detectie eilanden. Bedoeling daarvan was als er iemand in -of
-								uittreed moet er een melding komen bij de toezichters.
-								<br></br>
-								<br></br>
-								<strong>
-									<u>Documentatie</u>
-								</strong>
-								<br></br>
-								<a
-									class="btn btn-xl btn-outline-light me-1"
-									href={require('./assets/img/portfolio/pva.pdf')}
-								>
-									<i class="fas fa-download me-2"></i>
-									Plan van aanpak
-								</a>
-								<a
-									class="btn btn-xl btn-outline-light me-1"
-									href={require('./assets/img/portfolio/realistatie.pdf')}
-								>
-									<i class="fas fa-download me-2"></i>
-									Realisatie verslag
-								</a>
-								<a
-									class="btn btn-xl btn-outline-light me-1"
-									href={require('./assets/img/portfolio/ReflectieVerslag.pdf')}
-								>
-									<i class="fas fa-download me-2"></i>
-									Reflectie verslag
-								</a>
-								<a
-									class="btn btn-xl btn-outline-light me-1"
-									href={require('./assets/img/portfolio/realistatieStage.pdf')}
-								>
-									<i class="fas fa-download me-2"></i>
-									Realisatie stage
-								</a>
-								<br></br>
-							</p>
+						<div class="col-lg-7 ms-auto lead">
+							<h4>
+								<u>Camera sensoren</u>
+							</h4>
+							<br></br>
+							<br></br>
+							<strong>
+								<u>Periode</u>
+							</strong>
+							<br></br>
+							Tussen 1 februari en 1 juni 2023 liep ik gedurende 18 weken stage
+							bij Delta Technics en het dochterbedrijf Delta Care. <br></br>
+							<br></br>
+							<strong>
+								<u>Delta Technics</u>
+							</strong>
+							<br></br>
+							Dit bedrijf is zeer ervaren, onder andere in de elektro- en
+							telecomsector. Ze hebben zich gespecialiseerd in databekabeling
+							volgens de nieuwste technologieën en standaarden. Ze bieden
+							gestructureerde bekabeling op basis van glasvezeltechnologie en
+							"Twisted Pair" koperbekabeling. Daarnaast leggen ze ook de focus
+							op actieve apparaten en bieden ze oplossingen aan voor klanten. Ze
+							hebben ook IOT-toepassingen aan hun assortiment toegevoegd.
+							<br></br>
+							<br></br>
+							<strong>
+								<u>Delta care</u>
+							</strong>
+							<br></br>
+							Delta Care is een dochterbedrijf van Delta Technics en ze bieden
+							oplossingen om het leven van senioren en zorgbehoevenden
+							aangenamer te maken. Ze ondersteunen het netwerk van zorgverleners
+							en mantelzorgers door slimme technologie te installeren.
+							<br></br>
+							<br></br>
+							<strong>
+								<u>Opdracht</u>
+							</strong>
+							<br></br>
+							Delta Care is een bedrijf dat gebruikmaakt van Mobotix-camera's in
+							de zorgsector om een beter toezicht te houden op zorgbehoevende
+							mensen. Voor deze camera-systemen kreeg ik de opdracht van{' '}
+							<b>Delta care verantwoordelijk</b> om een applicatie te ontwerpen
+							die het zorgpersoneel in staat stelt om hun eigen grenslijnen te
+							tekenen met een muisklik en deze te gebruiken als
+							detectie-eilanden. Het doel van deze applicatie was om meldingen
+							te genereren wanneer iemand het detectie-eiland in- of uitgaat,
+							zodat toezichthouders onmiddellijk op de hoogte kunnen worden
+							gebracht. Dit verbeterde de reactietijd en de efficiëntie van het
+							zorgpersoneel, waardoor ze snel konden reageren op mogelijke
+							situaties die aandacht vereisen.
+							<br></br>
+							<br></br>
+							<strong>
+								<u>Documentatie</u>
+							</strong>
+							<br></br>
+							<div class="row">
+								<div class="col-lg-4 col-12 mt-1">
+									<a
+										class="btn btn-xl btn-outline-light w-100"
+										href={require('./assets/img/portfolio/pva.pdf')}
+									>
+										<i class="fas fa-download"></i>
+										Plan van aanpak
+									</a>
+								</div>
+								<div class="col-lg-4 col-12 mt-1">
+									<a
+										class="btn btn-xl btn-outline-light w-100"
+										href={require('./assets/img/portfolio/realistatie.pdf')}
+									>
+										<i class="fas fa-download"></i>
+										Realisatie verslag
+									</a>
+								</div>
+								<div class="col-lg-4 col-12 mt-1">
+									<a
+										class="btn btn-xl btn-outline-light w-100"
+										href={require('./assets/img/portfolio/reflectieVerslag.pdf')}
+									>
+										<i class="fas fa-download"></i>
+										Reflectie verslag
+									</a>
+								</div>
+							</div>
+							<br></br>
 						</div>
 						<div class="col-lg-4 me-auto">
 							<div>
@@ -366,12 +392,12 @@ function App() {
 			<footer class="footer text-center">
 				<div class="container">
 					<div class="row">
-						<div class="col-lg-4  mb-lg-0">
+						<div class="col-lg-3  mb-lg-0">
 							<h4 class="text-uppercase">Locatie</h4>
 							<p class="lead mb-0">Dunanstraat 13 | 3582 Beringen</p>
 						</div>
 
-						<div class="col-lg-4  mb-lg-0">
+						<div class="col-lg-3  mb-lg-0">
 							<h4 class="text-uppercase">Mijn link</h4>
 							<a
 								class="btn btn-outline-light btn-social mx-1"
@@ -381,9 +407,13 @@ function App() {
 							</a>
 						</div>
 
-						<div class="col-lg-4">
-							<h4 class="text-uppercase">Over Freelancer</h4>
-							<p class="lead mb-0">Werkt freelancer op project basis</p>
+						<div class="col-lg-3">
+							<h4 class="text-uppercase">Contact</h4>
+							<p class="lead mb-0">0493/ 96.00.18</p>
+						</div>
+						<div class="col-lg-3">
+							<h4 class="text-uppercase">E-mail</h4>
+							<p class="lead mb-0">info@arsoft.app</p>
 						</div>
 					</div>
 				</div>
@@ -432,18 +462,58 @@ function App() {
 											</div>
 											<div class="divider-custom-line"></div>
 										</div>
+										<div className="text-start">
+											<div>
+												<strong>Inleiding tot project</strong>
+												<p class="mb-4 mx-2">
+													LV Project is een bedrijf dat renovatiewerkzaamheden
+													uitvoert in Leuven. Ze transformeren een enkele woning
+													in verschillende studentenkamers. Het probleem is
+													echter dat een adres slechts één watermeter kan
+													hebben. Het is moeilijk om het waterverbruik van
+													individuele studenten te registreren. Ze hebben mij de
+													opdracht gegeven om een applicatie te ontwikkelen
+													waarmee het verbruik digitaal kan worden
+													geregistreerd.
+												</p>
+											</div>
+											<div>
+												<strong>Realisatie</strong>
+												<p class="mb-4 mx-2">
+													In elke studentenkamer is een flowsensor (Hall-effect)
+													geïnstalleerd. Bij elke omwenteling van de flowsensor
+													wordt er een puls gegenereerd. Als we 1874 pulsen
+													hebben, komt dit overeen met één liter waterverbruik.
+													Voor elke kamer is er dus een flowsensor voorzien.
+													Elke sensor is aangesloten op één Raspberry Pi, die
+													alle signalen berekent. De informatie wordt vervolgens
+													weergegeven op een touchpaneel, waar gebruikers hun
+													eigen waterverbruik kunnen aflezen.
+												</p>
+											</div>
+											<strong>Conclusie</strong>
 
-										<p class="mb-4">
-											LV project heeft mij de opdracht gegeven om van trationele
-											watermeter een digitale waterverbruik registartie te maken
-											voor 7 studente kamers gelegen in Leuven.<br></br>
-											Korte beschrijving : Door zelf gemaakte printplaat werd
-											door elk kamera via een hallsensor pulsen gestuurd naar de
-											Raspberry Pi. Raspberry slaat de waterverbuik op in lokale
-											database en deze werd gemonitord zodat iederen visueel kon
-											opvolgen. Voor deze visualisatie is mijn code in Python
-											geschreven
-										</p>
+											<div className=" mx-2">
+												<p>Meer programmer ervaring.</p>
+												<p>
+													Een mooie uitdaging van de analoge naar digitale
+													wereld.
+												</p>
+												<p>Technical Skills:</p>
+												<ul>
+													<li>Python</li>
+													<li>Linux scripting</li>
+												</ul>
+											</div>
+											<div className=" mx-2">
+												<p>Soft Skills:</p>
+												<ul>
+													<li>Communicatie.</li>
+													<li>Creatief zijn.</li>
+													<li>Probleemoplossend denken.</li>
+												</ul>
+											</div>
+										</div>
 										<button class="btn btn-primary" data-bs-dismiss="modal">
 											<i class="fas fa-xmark fa-fw"></i>
 											Close Window
@@ -532,244 +602,83 @@ function App() {
 												</div>
 											</div>
 										</div>
-
-										<p class="mb-4">
-											Ik heb een applicatie mogen ontwerpen voor firma Bionerga
-											en deze gingen ze gebruiken om werkvergunning aan te maken
-											en volledige opvolging.
-										</p>
-										<button class="btn btn-primary" data-bs-dismiss="modal">
-											<i class="fas fa-xmark fa-fw"></i>
-											Close Window
-										</button>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-
-			<div
-				class="portfolio-modal modal fade"
-				id="portfolioModal3"
-				tabindex="-1"
-				aria-labelledby="portfolioModal3"
-				aria-hidden="true"
-			>
-				<div class="modal-dialog modal-xl">
-					<div class="modal-content">
-						<div class="modal-header border-0">
-							<button
-								class="btn-close"
-								type="button"
-								data-bs-dismiss="modal"
-								aria-label="Close"
-							></button>
-						</div>
-						<div class="modal-body text-center pb-5">
-							<div class="container">
-								<div class="row justify-content-center">
-									<div class="col-lg-8">
-										<h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">
-											Circus Tent
-										</h2>
-
-										<div class="divider-custom">
-											<div class="divider-custom-line"></div>
-											<div class="divider-custom-icon">
-												<i class="fas fa-star"></i>
+										<div className="text-start">
+											<div>
+												<strong>Inleiding tot project</strong>
+												<p class="mb-4 mx-2">
+													Firma Biostoom is een afvalverwerkingsbedrijf dat
+													regelmatig werkzaamheden laat uitvoeren door zowel
+													intern als extern personeel. Voor alle werkzaamheden
+													is een werkvergunning vereist, die tot nu toe altijd
+													handmatig werd ingevuld. Dit heeft geleid tot
+													tijdsgebrek, gebrekkige opvolging, enzovoort.
+												</p>
 											</div>
-											<div class="divider-custom-line"></div>
+											<div>
+												<strong>Realisatie</strong>
+												<p class="mb-4 mx-2">
+													Ik heb de opdracht gekregen om een applicatie te
+													ontwerpen voor het bedrijf Biostoom om
+													werkvergunningen te digitaliseren. Op deze manier
+													kunnen ze eenvoudig werkvergunningen opstellen voor
+													zowel intern als extern personeel, met de mogelijkheid
+													om later koppelingen te maken naar een TFMS (Traffic
+													Flow Management System) systeem.
+												</p>
+											</div>
+											<strong>Conclusie</strong>
+
+											<div className=" mx-2">
+												<p>Zeer fijn om te werken in een team.</p>
+												<p>Meer programmer ervaring.</p>
+												<p>Technical Skills:</p>
+												<ul>
+													<li>Java</li>
+													<li>React</li>
+												</ul>
+											</div>
+											<div className=" mx-2">
+												<p>Soft Skills:</p>
+												<ul>
+													<li>Communicatie</li>
+													<li>Emapathie</li>
+													<li>Bewust zijn, geduld</li>
+													<li>Probleemoplossend / kritische denken.</li>
+												</ul>
+											</div>
 										</div>
 
-										<img
-											class="img-fluid rounded mb-5"
-											src="assets/img/portfolio/circus.png"
-											alt="..."
-										/>
+										<br></br>
+										<br></br>
+										<strong>
+											<u>Documentatie</u>
+										</strong>
 
-										<p class="mb-4">
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-											Mollitia neque assumenda ipsam nihil, molestias magnam,
-											recusandae quos quis inventore quisquam velit asperiores,
-											vitae? Reprehenderit soluta, eos quod consequuntur itaque.
-											Nam.
-										</p>
-										<button class="btn btn-primary" data-bs-dismiss="modal">
-											<i class="fas fa-xmark fa-fw"></i>
-											Close Window
-										</button>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-
-			<div
-				class="portfolio-modal modal fade"
-				id="portfolioModal4"
-				tabindex="-1"
-				aria-labelledby="portfolioModal4"
-				aria-hidden="true"
-			>
-				<div class="modal-dialog modal-xl">
-					<div class="modal-content">
-						<div class="modal-header border-0">
-							<button
-								class="btn-close"
-								type="button"
-								data-bs-dismiss="modal"
-								aria-label="Close"
-							></button>
-						</div>
-						<div class="modal-body text-center pb-5">
-							<div class="container">
-								<div class="row justify-content-center">
-									<div class="col-lg-8">
-										<h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">
-											Controller
-										</h2>
-
-										<div class="divider-custom">
-											<div class="divider-custom-line"></div>
-											<div class="divider-custom-icon">
-												<i class="fas fa-star"></i>
-											</div>
-											<div class="divider-custom-line"></div>
+										<div className="mt-4">
+											<a
+												class="btn btn-outline-dark me-1"
+												href={require('./assets/img/portfolio/mindmap.pdf')}
+											>
+												<i class="fas fa-download me-2"></i>
+												Mindmap
+											</a>
+											<a
+												class="btn btn-outline-dark me-1"
+												href={require('./assets/img/portfolio/useCaseBiostoom.pdf')}
+											>
+												<i class="fas fa-download me-2"></i>
+												Use-Case
+											</a>
+											<a
+												class="btn btn-outline-dark me-1"
+												href={require('./assets/img/portfolio/erdBiostoom.pdf')}
+											>
+												<i class="fas fa-download me-2"></i>
+												ERD
+											</a>
 										</div>
 
-										<img
-											class="img-fluid rounded mb-5"
-											src="assets/img/portfolio/game.png"
-											alt="..."
-										/>
-
-										<p class="mb-4">
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-											Mollitia neque assumenda ipsam nihil, molestias magnam,
-											recusandae quos quis inventore quisquam velit asperiores,
-											vitae? Reprehenderit soluta, eos quod consequuntur itaque.
-											Nam.
-										</p>
-										<button class="btn btn-primary" data-bs-dismiss="modal">
-											<i class="fas fa-xmark fa-fw"></i>
-											Close Window
-										</button>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-
-			<div
-				class="portfolio-modal modal fade"
-				id="portfolioModal5"
-				tabindex="-1"
-				aria-labelledby="portfolioModal5"
-				aria-hidden="true"
-			>
-				<div class="modal-dialog modal-xl">
-					<div class="modal-content">
-						<div class="modal-header border-0">
-							<button
-								class="btn-close"
-								type="button"
-								data-bs-dismiss="modal"
-								aria-label="Close"
-							></button>
-						</div>
-						<div class="modal-body text-center pb-5">
-							<div class="container">
-								<div class="row justify-content-center">
-									<div class="col-lg-8">
-										<h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">
-											Locked Safe
-										</h2>
-
-										<div class="divider-custom">
-											<div class="divider-custom-line"></div>
-											<div class="divider-custom-icon">
-												<i class="fas fa-star"></i>
-											</div>
-											<div class="divider-custom-line"></div>
-										</div>
-
-										<img
-											class="img-fluid rounded mb-5"
-											src="assets/img/portfolio/safe.png"
-											alt="..."
-										/>
-
-										<p class="mb-4">
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-											Mollitia neque assumenda ipsam nihil, molestias magnam,
-											recusandae quos quis inventore quisquam velit asperiores,
-											vitae? Reprehenderit soluta, eos quod consequuntur itaque.
-											Nam.
-										</p>
-										<button class="btn btn-primary" data-bs-dismiss="modal">
-											<i class="fas fa-xmark fa-fw"></i>
-											Close Window
-										</button>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-
-			<div
-				class="portfolio-modal modal fade"
-				id="portfolioModal6"
-				tabindex="-1"
-				aria-labelledby="portfolioModal6"
-				aria-hidden="true"
-			>
-				<div class="modal-dialog modal-xl">
-					<div class="modal-content">
-						<div class="modal-header border-0">
-							<button
-								class="btn-close"
-								type="button"
-								data-bs-dismiss="modal"
-								aria-label="Close"
-							></button>
-						</div>
-						<div class="modal-body text-center pb-5">
-							<div class="container">
-								<div class="row justify-content-center">
-									<div class="col-lg-8">
-										<h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">
-											Submarine
-										</h2>
-
-										<div class="divider-custom">
-											<div class="divider-custom-line"></div>
-											<div class="divider-custom-icon">
-												<i class="fas fa-star"></i>
-											</div>
-											<div class="divider-custom-line"></div>
-										</div>
-
-										<img
-											class="img-fluid rounded mb-5"
-											src="assets/img/portfolio/submarine.png"
-											alt="..."
-										/>
-
-										<p class="mb-4">
-											Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-											Mollitia neque assumenda ipsam nihil, molestias magnam,
-											recusandae quos quis inventore quisquam velit asperiores,
-											vitae? Reprehenderit soluta, eos quod consequuntur itaque.
-											Nam.
-										</p>
+										<br></br>
 										<button class="btn btn-primary" data-bs-dismiss="modal">
 											<i class="fas fa-xmark fa-fw"></i>
 											Close Window
